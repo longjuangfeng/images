@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
-  "update_log": "这是第一个正式版本",
-  "download_url": "这个稍后填写"
+  "app_version": "1.0.1",
+  "update_log": "1. 新增自动更新功能\n2. 修复已知问题",
+  "apk_url": "https://raw.githubusercontent.com/longjuangfeng/images/main/jiaoyu.apk"
 }
